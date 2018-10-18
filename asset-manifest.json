@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.14fdc0ce.css",
   "main.css.map": "static/css/main.14fdc0ce.css.map",
-  "main.js": "static/js/main.d2af3468.js",
-  "main.js.map": "static/js/main.d2af3468.js.map",
+  "main.js": "static/js/main.0401b0ff.js",
+  "main.js.map": "static/js/main.0401b0ff.js.map",
   "static\\media\\Roboto-Bold.eot": "static/media/Roboto-Bold.ecdd509c.eot",
   "static\\media\\Roboto-Bold.ttf": "static/media/Roboto-Bold.e31fcf18.ttf",
   "static\\media\\Roboto-Bold.woff": "static/media/Roboto-Bold.dc81817d.woff",
@@ -51,5 +51,6 @@
   "static\\media\\sidak.jpg": "static/media/sidak.9e2b113a.jpg",
   "static\\media\\sonia.jpg": "static/media/sonia.06199710.jpg",
   "static\\media\\spideygif.gif": "static/media/spideygif.681b6e7d.gif",
+  "static\\media\\stickermule.svg": "static/media/stickermule.67e93281.svg",
   "static\\media\\vikash.png": "static/media/vikash.f7999483.png"
 }
